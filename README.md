@@ -23,7 +23,7 @@ Con cada nivel, la dificultad aumenta, ofreciendo una experiencia divertida y de
 ## Instalación
 
 1. Descarga el juego desde la [# Roll and Ball](https://github.com/Danipr2425/Roll-a-Ball)
-2. Extrae el archivo ZIP en tu computadora.
+2. El juego lo encontrarás dentro de la carpeta Roll-a-ball/Roll-a-ball/builds/Roll-a-Ball.exe
 3. Abre la carpeta extraída y ejecuta el archivo `RollAndBall.exe` (o el equivalente en tu sistema operativo).
 
 ## Cómo jugar
